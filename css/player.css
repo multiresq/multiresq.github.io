@@ -1,0 +1,81 @@
+*, ::after, ::before {
+  box-sizing: border-box;
+  background-color: black;
+}
+video {
+    height: auto;
+    width: 100%;
+    position: relative;
+  }
+
+  .bg-dark {
+    background-color: #000 !important;
+  }
+
+  footer {
+    text-align: center;
+    font-family: sans-serif;
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+  }
+
+  body {
+    font-family: 'Lato', Calibri, Arial, sans-serif;
+  }
+
+  .mytex {
+    font-size: 1.5rem;
+  }
+
+  a {
+    color: #f7f7f7;
+    font-size: xx-large;
+  }
+
+  a:hover {
+    color: rgb(189, 189, 189) !important;
+  }
+
+  .back {
+    text-decoration: none !important;
+  }
+
+  .btn-outline-secondary {
+  color: #ffffff !important;
+  }
+
+  .btn-outline-secondary:not(:disabled):not(.disabled).active, .btn-outline-secondary:not(:disabled):not(.disabled):active, .show>.btn-outline-secondary.dropdown-toggle {
+  color: #7f7f7f !important;
+  background-color: #000000  !important;
+  border-color: #cc0000 !important;
+  box-shadow: none !important;
+  }
+
+  .webkit-full-screen {
+    color: #000000  !important;
+  }
+
+  .btn-outline-secondary:hover{
+    background-color: #00000091  !important;
+    border-color: #fff;
+  }
+
+video {
+    width: 100%;
+}
+
+.dash-video-player {
+    position: relative;  /* This position relative is needed to position the menus */
+    width: auto !important;
+    margin: 0 auto;
+}
+
+video {
+  width: 100%;
+  top:12%;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
