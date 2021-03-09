@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Multi-resolution Quality-based Video Coding System for DASH Scenarios
 
-You can use the [editor on GitHub](https://github.com/multiresq/multiresq.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+>Wilmer Moina-Rivera 
 
-### Markdown
+wilmoiri@alumni.uv.es
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+>Juan Gutierrez-Aguado
 
-```markdown
-Syntax highlighted code block
+juan.gutierrez@uv.es
 
-# Header 1
-## Header 2
-### Header 3
+>Miguel Garcia-Pineda
 
-- Bulleted
-- List
+miguel.garcia-pineda@uv.es
 
-1. Numbered
-2. List
+Computer Science Dept.
 
-**Bold** and _Italic_ and `Code` text
+Universitat de Valencia
 
-[Link](url) and ![Image](src)
-```
+Valencia, Spain
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Abstract
 
-### Jekyll Themes
+>Today, more than 85% of Internet traffic has a multimedia com-ponent. Video streaming occupies a large part of this percentagemainly due to this type of content is provided by the most usedapplications on the Internet (e.g. Twitch, TikTok, Disney+, YouTube,Netflix, etc.). Most of these platforms use HTTP Adaptive Streaming(HAS) to send this media content to end users in order to ensure agood quality of experience (QoE). But, this QoE should be guaran-teed from the video to be transmitted, i.e., the video should havean adequate quality by minimizing the bitrate before transmission. In order to solve this issue, we present a system capable of en-coding a video in several resolutions given the desired value ofan objective metric. Our system includes the objective metric inthe encoding loop in order to maintain the quality in all segments. This system has been tested with three video and five resolutionsfor each video. Our proposal provides improvements of more than10% in terms of video size and with similar coding times whencompared with a constant CRF encoding.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/multiresq/multiresq.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Wilmer Moina-Rivera
